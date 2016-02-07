@@ -1,4 +1,4 @@
-<?
+<?php
 switch($_SESSION['locale'])
 {
 	// --- RUSSIAN LOCALE ---
